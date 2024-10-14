@@ -66,7 +66,7 @@ const Signup = () => {
         />
 
         <Button variant="contained" color="primary" type="submit" fullWidth>
-          Sign Up
+          Sign Up page 
         </Button>
 
         <Typography variant="body2" textAlign="center">
