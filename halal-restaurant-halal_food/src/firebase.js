@@ -9,7 +9,7 @@ import { getAnalytics } from "firebase/analytics";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyDOAmOYWJi13qRYBwbfsvqkVLx_OkJyPVQ", // my api 
-  authDomain: "halalfood-fe458.firebaseapp.com",
+  authDomain: "halalfood-fe458.firebaseapp.com",// new 
   projectId: "halalfood-fe458",
   storageBucket: "halalfood-fe458.appspot.com",
   messagingSenderId: "223940064173",
