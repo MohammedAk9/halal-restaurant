@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* styles.css or a similar CSS file */
+.recipe-card {
+  cursor: pointer; /* Indicate clickable cards */
+  transition: transform 0.2s; /* Smooth hover effect */
+}
+
+.recipe-card:hover {
+  transform: scale(1.05); /* Scale up on hover */
+}
